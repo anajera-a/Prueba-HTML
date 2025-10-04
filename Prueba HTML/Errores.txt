@@ -1,0 +1,14 @@
+ href estilos2.ssc por estilos2.css
+ hred por href
+ Comentarios // por <!-- -->
+ div class card )
+ Linea 25 a 29 faltan los enlaces
+ Linea 50 content-cord a content-card
+ Linea 61 carpeta mal escrita imd a img
+ Linea 85 heart.gif a heart.png
+ Linea 102 identificador a id
+ Linea 103 nuestro trabajo cerrar </h3>
+ Linea 138 div clas a div class
+ Linea 170 clas a class
+ Imagen de fondo no está
+ No tienen definido el tamaño
